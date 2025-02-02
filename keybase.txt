@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/dcousineau
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dcousineau.sexy
+  * I am dcousineau (https://keybase.io/dcousineau) on keybase.
+  * I have a public key with fingerprint 80B8 35D2 0505 75B7 3D8F  FDAF 7E1B D146 2E3A DEF7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.6.0"
+        },
+        "key": {
+            "fingerprint": "80b835d2050575b73d8ffdaf7e1bd1462e3adef7",
+            "host": "keybase.io",
+            "key_id": "7E1BD1462E3ADEF7",
+            "uid": "8ed5ef50b9e1167584204f9e45c50c00",
+            "username": "dcousineau"
+        },
+        "merkle_root": {
+            "ctime": 1410988626,
+            "hash": "0b332508c5e374a27f100bcb0ca2359eea1708e4e8dc23cf0c7aedc43b208dcda7ad6488ab57abffcb78e4ec88b53846bfcb31b5f9701fed1e21cccd41334f78",
+            "seqno": 49795
+        },
+        "service": {
+            "hostname": "dcousineau.sexy",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1410988638,
+    "expire_in": 157680000,
+    "prev": "89329e7a15686a0eab60832dfea6d8c69520a4d86e92e94b5d29ea50bcf17c59",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFlkn1MVWUcx+9FcZG8c4FRxG4nQRZwPe8vF5yCQMkcUwEVo/A85zzncng5B+65
+9woZWIRiiGAWlWLkGEmrkQNxMSuKNSKgLEHWKuXFkVLzZalEsgmdw2izev56nt/z
+eb6/3/f5/Y76rTB5masev5hus4/PmYd/A6bsiPkX9iFAFSsQ+z5EKJah4jJ2Cl8C
+ETtSBCsAr0GbrFoVVYS2Qs26zMQjHujUZFXRKdRG21CkMt7AjceSrDigs9QpG1oI
+iwKWoEQcpVCKoQBDiKwkibzEQAyIGEnjkOBFKDG6ZIGquf6VFVnSzJdFPcqkYSmp
+Bp9GJKempRu8e+mChSIFJQoFHMQwmqFYEkdJiYMkJVCogKIGqEHnsiVRUN2arEDe
+bVRcAp1FxTDfqapLtgWXbEAYiaEcy9I4rdfEawWGR0AQOIWyAgUJhuRxRsJQFAgA
+FXicoDgIeYxBWUhCVhRwQpBQgeGhKJAEwFE9JPIML9Iky/KAYnggSQJgDFpgWUAR
+LEkDPUJggJI4BsUkKGIQxwRBEEmMIEiJYXUTGixTVMROcgxHVRpHp0cWoFG28W//
+s2fTYHmF/qzUqbpUQS3WLwtcrlK7YdtVUWrAnXshyF/WyQeyIuqNe7izmI7+50sI
+Nh6B5aWyE+bLBkExNIvqy8gDPUY3OALnIMNjFM3SPAp5QKMsgYsS5GmRFWiOwlGe
+FFkacjjkSKBPBgd5vXuChDECxT1kVK+Td+iSmuxQeJfbCZHK17wiV5rMXqZV3l7G
+6Joe9Qn8Z563ZQeaxnLqzs45fPtXZJxUqnZfyNz0bbin9VRN6vvunaaxhBDP+KnQ
+x+bf/OTEy1cH+9Y+Gz948b42cuhWzdjRPXuKdqws22v+srnyzuRQTbfb0eGd+mvA
+XOKGNZld4U0mZcJ6LzmtA8xHxf8R0/hee2t2/+rY1pTfe0Liche3zUxildNPa2aw
++0rF1M8Blq76jjNHdq2paPru63NIQKvac6bm7J9D3Ft2bSGvt2DLRFRKWOO7Zqon
+eJPzXnT7O0F+0QGhTzx1WenYfJ38eLE6JKv8l5nWn3wXQ68NReRm1PoPRF9NiPvC
+fjsmTHuw6slY/1dHb1yyps+eXt9cV9RrWZjZ7/DdqtR+3iWHL9rjroV9ddl6bHps
+sX7dzd4Mq+Xu/VshDzYnxa+/aXmu8/vpY5rP9cmFyb5uZe1B+DzZnmu+/ZL75OHE
+nOIer2ra70eHxXPJ1J19obBI6+tvO97b+0x1e6Yj58XG2cEy4YO6kOHh5rcH/hps
+OPBpRsfx7TvZzkMSuJGAX/lsf2LSD4UtU1tfH9s4isnVJ9xdo0hLckmBZfyViMiP
+tizs4h85z8gJnuDQpMNRDf4JBwXP/MRoz4HVnuzZtmQ2gbB8WJy4rr6zkatpCcqK
+3fFGcYyP2mmlg+/kfVO1wRbYv50H7Vnn2oLE2pGCofnyptMjnryqjQ1TkQPn7055
+1x+Zz9f+Bg==
+=treZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dcousineau
+
+==================================================================
